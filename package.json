@@ -1,0 +1,21 @@
+{
+  "name": "weekly-challenges",
+  "version": "1.0.0",
+  "description": "MoureDev weekly challenges in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:watch": "eslint . --watch"
+  },
+  "keywords": ["javascript", "weekly", "challenges", "algorithms"],
+  "author": "Vicente Noriega",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "jest": "^29.7.0"
+  }
+}
