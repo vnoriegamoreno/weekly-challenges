@@ -1,4 +1,4 @@
-# Reto #1: El Lenguaje Hacker
+# Reto: El Lenguaje Hacker
 
 ## Enunciado
 

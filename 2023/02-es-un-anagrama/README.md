@@ -1,4 +1,4 @@
-# Reto #1: ¿Es un anagrama?
+# Reto: ¿Es un anagrama?
 
 ## Enunciado
 

@@ -1,4 +1,4 @@
-# Reto 01: El famoso FizzBuzz
+# Reto: El famoso FizzBuzz
 
 ## Enunciado
 

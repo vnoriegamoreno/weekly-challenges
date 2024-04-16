@@ -1,4 +1,4 @@
-# Reto #1: La Sucesión de Fibonacci
+# Reto: La Sucesión de Fibonacci
 
 ## Enunciado
 
