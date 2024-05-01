@@ -7,7 +7,7 @@ describe('balanceExpressions', () => {
     expression = '{[a*(c+d)]-5}';
     expect(balanceExpressions(expression)).toBeTruthy();
   });
-  it('should not incorrect balance expressions', () => {
+  it('should evaluate incorrect balance expressions', () => {
     let expression = '{ a * ( c + d ) ] - 5 }';
     expect(balanceExpressions(expression)).toBeFalsy();
     expression = '{a*(c+d)]-5}';
